@@ -3,7 +3,7 @@ Yet another pomodoro tool.
 
 ## overview
 A simple pomodoro tool as simple as a bash script.
-My initial intention was to use something like: https://github.com/gingivitis/i3-pomodoro, but I was discouraged due to node.
+My initial intention was to use something like: https://github.com/gingivitis/i3-pomodoro, but I was discouraged due to nodejs.
 So, I decided to write a script that just uses shell and has no other requirements.
 
 ## features
@@ -13,6 +13,8 @@ So, I decided to write a script that just uses shell and has no other requiremen
 - tick sound (optional)
 - desktop notifications (optional)
 - i3 integration (optional)
+
+This has been tested on linux and it works fine. It may or may not require additional tuning for other operating systems.
 
 ## usage
 
